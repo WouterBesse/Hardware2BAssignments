@@ -27,5 +27,6 @@ Drie ledjes die de volume visualiseren. Groen is laag volume, geel is middel en 
 [Video](https://photos.app.goo.gl/XaivqfyogtqGSQXG9)
 
 Een simpele implementatie van potmeters en een piezo trigger om te communiceren met mijn DAW.
+In de schematic heb ik een piezo speaker gebruikt omdat er geen piezo microfoon part was.
 
 ![alt text](https://github.com/WouterBesse/Hardware2BAssignments/raw/main/MidiController_bb.png)
